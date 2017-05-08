@@ -9,4 +9,4 @@
 * Añada Karma
 * Añada integración continua usando Travis
 * Añada a su README.md un badge Travis como este: Build Status indicando el estado de las pruebas en Travis y enlazando a las mismas.
-* Entrege los enlaces al repo en GitHub y a Travis
+* Entrege los enlaces al repo en GitHub y a Travis.
